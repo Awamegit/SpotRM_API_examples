@@ -1,1 +1,2 @@
-getImage_tmp.py
+*.svg
+.ipynb_checkpoints/*.*
