@@ -1,2 +1,12 @@
+# Pycharm IDE
+**/.idea/
+**/__pycache__
+
+# Jupyster notebooks
+**/.ipynb_checkpoints
+
+# other
+*.log
+*Copy*.ipynb
+.env
 *.svg
-.ipynb_checkpoints/*.*
